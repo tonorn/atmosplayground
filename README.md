@@ -12,3 +12,4 @@ Topics that we might cover:
 - Documentation
 - Working with Python notebooks
 - Plotting with python
+- Create a web app (for example create QC plots)

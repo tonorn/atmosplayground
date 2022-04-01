@@ -18,6 +18,7 @@ Seared sea bass
 Turkey with carrot and mashed potatoes
 Entrecôte with broccoli and corn
 Porksteak with rice
+Sushi
 Fish and chips
 Fish soup without chili
 Deep-fried haddock
@@ -26,4 +27,4 @@ Bacon cheese burger with sweet potato fries
 Lutefisk with bacon
 West African Peanut Stew
 New fusion dish 
-Sushi
+Unfried spring rolls
